@@ -128,7 +128,7 @@ const getSocialsIcon = () => {
       {
         id: nextId(),
         alt: "Facebook",
-        link: "https://www.facebook.com/mohamed.elshamy.33046",
+        link: "https://www.facebook.com/profile.php?id=mohamed.elshamy.33046",
         src: "https://img.icons8.com/dusk/64/000000/facebook-new--v2.png",
       },
       {

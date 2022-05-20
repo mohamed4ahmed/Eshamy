@@ -38,8 +38,9 @@ const About = ({ socials }) => {
               📕
             </span>{" "}
             Experience: Senior Consultant Anesthesia, Care and Center,
-            interested in My personnel clinical interests are: - Pediatric and
-            neuroanesthesia. <br />
+            <br />
+            My personnel clinical interests are: <br />
+            - Pediatric and neuroanesthesia. <br />
             - Perioperative medicine. <br />
             - Enhanced Recovery After Surgery. <br />
             - Acute pain management, opioids free analgesia. <br />

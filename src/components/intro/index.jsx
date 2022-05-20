@@ -40,7 +40,8 @@ const Greeting = () => {
               إستشاري اول تخدير وعناية مركزه بمستشفي المحلة الكبري العام
             </p>
             <img className="avatar" src={Avatar} alt="Avatar" />
-            <p style={{ fontSize: "11px" }}>'QR Code for this page'</p>
+            {/* <p style={{ fontSize: "11px" }}> </p> */}
+            <br />
             <img className="avatar" src={Avatar1} alt="Avatar1" />
 
             <div className="corner corner-br"></div>

@@ -142,7 +142,7 @@ const Information = () => {
                 <a
                   rel="noopener noreferrer"
                   target="__blank"
-                  href="https://www.facebook.com/mohamed.elshamy.33046"
+                  href="https://www.facebook.com/profile.php?id=mohamed.elshamy.33046"
                   aria-label="Facebook"
                 >
                   <div className="icon">
