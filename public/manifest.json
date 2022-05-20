@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Dr Mohamed Elshamy",
+  "name": "Dr Mohamed Elshamy Senior Consultant Anesthesia",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#00bfd5",
+  "background_color": "#c5f5ff"
 }
